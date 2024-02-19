@@ -17,10 +17,11 @@ BinaryTreeGrowthAlgorithmforFeatureSelection folder contains all required files 
 ## (III)	3_ClassificationCode
 3_ClassificationCode folder includes all the libraries for DNN classifier framework.
 ## (IV)	PSSM_based_Feature_Extraction.m
-Mixed_Feature_Extraction.m is the matlab file for extracting <br />
+PSSM_based_Feature_Extraction.m is the matlab file for extracting <br />
 (1) 	LBP-PSSM (Local Binary Pattern-Position Specific Scoreing Matrix)
 (2)	PSePSSM (Pseudo-Position Specific Scoreing Matrix) <br />
-## (V) LBP_SMR_Feature Extraction is the matlab File foe extracting <br /> 
+## (V) LBP_SMR_Feature_Extraction.m 
+LBP_SMR_Feature_Extraction.m is the matlab File for extracting <br /> 
 (1)	LBP-SMR (Local Binary Pattern-Substitution matrix representation) <br />
 
 ## (VI)	Contact
