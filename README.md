@@ -20,7 +20,7 @@ BinaryTreeGrowthAlgorithmforFeatureSelection folder contains all required files 
 PSSM_based_Feature_Extraction.m is the matlab file for extracting <br />
 (1) 	LBP-PSSM (Local Binary Pattern-Position Specific Scoreing Matrix)
 (2)	PSePSSM (Pseudo-Position Specific Scoreing Matrix) <br />
-## (V) LBP_SMR_Feature Extraction.m 
+## (V) LBP_SMR_Feature_Extraction.m 
 LBP_SMR_Feature Extraction.m is the matlab File for extracting <br /> 
 (1)	LBP-SMR (Local Binary Pattern-Substitution matrix representation) <br />
 
