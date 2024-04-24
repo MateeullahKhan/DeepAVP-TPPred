@@ -21,11 +21,11 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%% SAVE FILES %%%%%%%%%%%%%%%%%%%%%%%%%
 
-feature_LBP_PSSM_951=[features];
-save feature_LBP_PSSM_951 feature_LBP_PSSM_951;
+feature_LBP_SMR_951=[features];
+save feature_LBP_SMR_951 feature_LBP_SMR_951;
 
 %%%% To Create CSV sheet for the data %%%%%%%%%
    
-%      csvwrite('feature_LBP_PSSM_951.csv',feature_LBP_PSSM_951);
+%      csvwrite('feature_LBP_SMR_951.csv',feature_LBP_SMR_951);
 
 
