@@ -14,8 +14,7 @@ for i=1:(Total_Seq_train)
     SEQ=cell2mat(SEQ);
     P=SMR(SEQ,energy_20);
 	P=P';
-    P = uint8(255 * mat2gray(P));
-	FF=lbp(P);
+   %% Use the LBP-SMR code here
     features(i,:)=FF;
 end
 
