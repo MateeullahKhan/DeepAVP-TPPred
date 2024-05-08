@@ -24,9 +24,7 @@ for i=1:n_protein
 	PSSM_Matrix = Read_Text_files_PSSM(files_name);
     
     %%%%%%%%%%% LBP-PSSM %%%%%%%%%%%%%%%%
-    PSSM_IMG = uint8(255 * mat2gray(PSSM_Matrix));
-    lbpfeat=lbp(PSSM_IMG,spoints,0,'h');
-    feature_LBP_PSSM_951(i,:)=lbpfeat;
+    %% Please Use the LBP-PSSM code here
     
     %%%%%%%%%%%% PsePSSM %%%%%%%%%%%%%%%%
     FPseudo = PseudoPSSM(PSSM_Matrix, 5);
